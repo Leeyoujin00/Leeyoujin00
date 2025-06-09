@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jada2039)](https://solved.ac/jada2039/)
+<div align="center">
+  <a href="https://solved.ac/jada2039">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jada2039" alt="Solved.ac Profile" />
+  </a>
+</div>
